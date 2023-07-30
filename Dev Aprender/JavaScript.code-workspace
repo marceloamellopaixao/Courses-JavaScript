@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "1 - Variáveis"
+		},
+		{
+			"path": "2 - Constantes"
+		},
+		{
+			"path": "3 - Tipos Primitivos"
+		},
+		{
+			"path": "4 - Tipagem Dinâmica"
+		},
+		{
+			"path": "5 - Objetos"
+		},
+		{
+			"path": "6 - Arrays"
+		},
+		{
+			"path": "7 - Functions"
+		},
+		{
+			"path": "8 - Tipos de Funções"
+		},
+		{
+			"path": "9 - Operadores no Javascript"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "1 - Variáveis"
+	}
+}
